@@ -1,0 +1,30 @@
+{
+  "place_id":165178128,
+  "licence":"Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+  "osm_type":"way",
+  "osm_id":241901733,
+  "lat":"51.280591900000005",
+  "lon":"1.0731524500000043",
+  "place_rank":30,
+  "category":"building",
+  "type":"house",
+  "importance":0,
+  "addresstype":"building",
+  "name":null,
+  "display_name":"16, Whitehall Road, St. Mildred's, Harbledown, Canterbury, Kent, England, CT2 8BQ, United Kingdom",
+  "address":{
+    "house_number":"16",
+    "road":"Whitehall Road",
+    "suburb":"St. Mildred's",
+    "village":"Harbledown",
+    "city":"Canterbury",
+    "county":"Kent",
+    "ISO3166-2-lvl6":"GB-KEN",
+    "state":"England",
+    "ISO3166-2-lvl4":"GB-ENG",
+    "postcode":"CT2 8BQ",
+    "country":"United Kingdom",
+    "country_code":"gb"
+  },
+  "boundingbox":["51.2805407","51.2806431","1.0730671","1.0732378"]
+}
